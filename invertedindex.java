@@ -1,5 +1,4 @@
-package com.company.invertedindex;
-
+package invertedfile;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -68,3 +67,4 @@ public class invertedindex {
         displayIndex(invertedData, docno);
     }
 }
+
